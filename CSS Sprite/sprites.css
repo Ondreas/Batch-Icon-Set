@@ -1,0 +1,913 @@
+.icon-browser-download,.icon-cancel-circle,.icon-minus-circle,.icon-circle-add,.icon-arrow-right,.icon-arrow-left,.icon-arrow-up,.icon-arrow-down,.icon-compass,.icon-asterisk,.icon-anchor,.icon-link,.icon-link1,.icon-timeline,.icon-ellipsis,.icon-bullet,.icon-compose,.icon-compose1,.icon-compose2,.icon-compose3,.icon-pen,.icon-pencil,.icon-quill,.icon-quill1,.icon-nib,.icon-bell-mute,.icon-bell-mute1,.icon-bell,.icon-bell1,.icon-shredder,.icon-print,.icon-droplet,.icon-bulb,.icon-bulb1,.icon-crop,.icon-swatches,.icon-swatch,.icon-rulers,.icon-layout-content-right,.icon-layout-content-left,.icon-layout-content-right1,.icon-layout-content-left1,.icon-layout-sidebar-right,.icon-layout-column-center,.icon-layout-sidebar-left,.icon-exclude,.icon-intersect,.icon-subtract,.icon-unite,.icon-distribute-horizontal-centers,.icon-distribute-horizontal-right,.icon-distribute-horizontal-left,.icon-distribute-vertical-bottom,.icon-distribute-vertical-centers,.icon-distribute-vertical-top,.icon-align-right,.icon-align-horizontal-centers,.icon-align-left,.icon-align-bottom,.icon-align-vertical-centers,.icon-align-top,.icon-attachment,.icon-attachment1,.icon-document-remove,.icon-document-add,.icon-document,.icon-newspaper,.icon-newspaper1,.icon-wallet,.icon-wallet1,.icon-creditcard,.icon-creditcard1,.icon-creditcard2,.icon-creditcard3,.icon-store,.icon-store1,.icon-cloud-remove,.icon-cloud-add,.icon-cloud-remove1,.icon-cloud-remove2,.icon-cloud-download,.icon-cloud-upload,.icon-cloud,.icon-folder-duplicate,.icon-folder-remove,.icon-folder-add,.icon-folder,.icon-folder-duplicate1,.icon-folder-remove1,.icon-folder-add1,.icon-folder1,.icon-podcast,.icon-podcast1,.icon-support,.icon-support1,.icon-support2,.icon-database-remove,.icon-database-add,.icon-database,.icon-ripped-paper,.icon-paperrollripped,.icon-paperroll,.icon-book-lines,.icon-book,.icon-book-lines1,.icon-book1,.icon-addressbook,.icon-addressbook1,.icon-mail,.icon-mail1,.icon-mail2,.icon-stamp,.icon-stamp1,.icon-spinner,.icon-spinner1,.icon-spinner2,.icon-safe,.icon-unlocked,.icon-locked,.icon-key,.icon-key1,.icon-outbox,.icon-inbox,.icon-tray,.icon-transfer,.icon-swap,.icon-swap1,.icon-converge,.icon-split,.icon-split1,.icon-wiggle,.icon-return,.icon-shuffle,.icon-repeat,.icon-repeat1,.icon-refresh,.icon-tag,.icon-tag1,.icon-tag2,.icon-tag3,.icon-menu,.icon-menu1,.icon-menu-pull-up,.icon-menu-pull-down,.icon-contract,.icon-maximize,.icon-expand,.icon-contract1,.icon-expand1,.icon-contract2,.icon-expand2,.icon-wifi-full,.icon-wifi-half,.icon-wifi-low,.icon-eye,.icon-eye1,.icon-zoomout,.icon-zoomin,.icon-search,.icon-zoomout1,.icon-zoomin1,.icon-search1,.icon-nope,.icon-sleep,.icon-flux,.icon-clock,.icon-battery-charge,.icon-battery-empty,.icon-battery-20,.icon-battery-40,.icon-battery-60,.icon-battery-80,.icon-battery-100,.icon-battery-charge1,.icon-battery-empty1,.icon-battery-201,.icon-battery-401,.icon-battery-601,.icon-battery-801,.icon-battery-1001,.icon-user-card,.icon-map,.icon-map1,.icon-pin,.icon-pin1,.icon-camera,.icon-camera1,.icon-camera2,.icon-headphones,.icon-bullhorn,.icon-bullhorn1,.icon-microphone,.icon-microphone1,.icon-voicemail,.icon-cassette,.icon-spool,.icon-vinyl,.icon-wave,.icon-wave1,.icon-mixer,.icon-keys,.icon-power,.icon-tilda,.icon-infinity,.icon-section,.icon-cmd,.icon-square-brackets,.icon-curlybrace,.icon-curlybrace1,.icon-code,.icon-terminal,.icon-clipboard,.icon-clipboard1,.icon-reminder,.icon-calendar,.icon-notes,.icon-floppy,.icon-stiffy,.icon-bin,.icon-bin1,.icon-toggle-off,.icon-toggle-on,.icon-toggle-off1,.icon-toggle-on1,.icon-flask-empty,.icon-flask-full,.icon-settings,.icon-settings1,.icon-settings2,.icon-heart-empty,.icon-heart-half,.icon-heart-full,.icon-polaroid,.icon-polaroid1,.icon-user,.icon-users,.icon-user1,.icon-user2,.icon-video,.icon-film,.icon-picture,.icon-contrast,.icon-brightness-low,.icon-brightness-high,.icon-audio-high,.icon-audio-mid,.icon-audio-low,.icon-audio-mute,.icon-align-right1,.icon-align-center,.icon-align-left1,.icon-justify,.icon-paragraph-right,.icon-paragraph-center,.icon-paragraph-left,.icon-paragraph-justify,.icon-outgoing,.icon-outbox1,.icon-inbox1,.icon-out,.icon-in,.icon-list,.icon-list1,.icon-grid,.icon-grid1,.icon-crate,.icon-marquee-download,.icon-marquee-upload,.icon-marquee-minus,.icon-marquee-plus,.icon-marquee,.icon-minus,.icon-plus,.icon-windows,.icon-browsers,.icon-terminal1,.icon-browser-upload,.icon-browser-close,.icon-browser-minimize,.icon-browser-new-window,.icon-browser,.icon-browser-windows,.icon-terminal2,.icon-browser-download1,.icon-browser-upload1,.icon-browser-close1,.icon-browser-minimize1,.icon-browser-new-window1,.icon-browser1,.icon-speech-bubble-right,.icon-speech-bubble-left,.icon-speech-bubble-right1,.icon-speech-bubble-center,.icon-speech-bubble-left1,.icon-speech-bubble-right2,.icon-speech-bubble-center1,.icon-speech-bubble-left2,.icon-speech-bubble-right3,.icon-speech-bubble-center2,.icon-speech-bubble-left3 {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-image: url(sprites.png);
+	background-repeat: no-repeat;
+}
+.icon-browser-download {
+	background-position: 0 0;
+}
+.icon-cancel-circle {
+	background-position: -32px 0;
+}
+.icon-minus-circle {
+	background-position: -64px 0;
+}
+.icon-circle-add {
+	background-position: -96px 0;
+}
+.icon-arrow-right {
+	background-position: -128px 0;
+}
+.icon-arrow-left {
+	background-position: -160px 0;
+}
+.icon-arrow-up {
+	background-position: -192px 0;
+}
+.icon-arrow-down {
+	background-position: -224px 0;
+}
+.icon-compass {
+	background-position: -256px 0;
+}
+.icon-asterisk {
+	background-position: -288px 0;
+}
+.icon-anchor {
+	background-position: -320px 0;
+}
+.icon-link {
+	background-position: -352px 0;
+}
+.icon-link1 {
+	background-position: -384px 0;
+	width: 17px;
+	height: 17px;
+}
+.icon-timeline {
+	background-position: -416px 0;
+}
+.icon-ellipsis {
+	background-position: -448px 0;
+}
+.icon-bullet {
+	background-position: -480px 0;
+}
+.icon-compose {
+	background-position: 0 -32px;
+}
+.icon-compose1 {
+	background-position: -32px -32px;
+}
+.icon-compose2 {
+	background-position: -64px -32px;
+}
+.icon-compose3 {
+	background-position: -96px -32px;
+}
+.icon-pen {
+	background-position: -128px -32px;
+}
+.icon-pencil {
+	background-position: -160px -32px;
+}
+.icon-quill {
+	background-position: -192px -32px;
+}
+.icon-quill1 {
+	background-position: -224px -32px;
+}
+.icon-nib {
+	background-position: -256px -32px;
+}
+.icon-bell-mute {
+	background-position: -288px -32px;
+}
+.icon-bell-mute1 {
+	background-position: -320px -32px;
+}
+.icon-bell {
+	background-position: -352px -32px;
+}
+.icon-bell1 {
+	background-position: -384px -32px;
+}
+.icon-shredder {
+	background-position: -416px -32px;
+}
+.icon-print {
+	background-position: -448px -32px;
+}
+.icon-droplet {
+	background-position: -480px -32px;
+}
+.icon-bulb {
+	background-position: 0 -64px;
+}
+.icon-bulb1 {
+	background-position: -32px -64px;
+}
+.icon-crop {
+	background-position: -64px -64px;
+}
+.icon-swatches {
+	background-position: -96px -64px;
+}
+.icon-swatch {
+	background-position: -128px -64px;
+}
+.icon-rulers {
+	background-position: -160px -64px;
+}
+.icon-layout-content-right {
+	background-position: -192px -64px;
+}
+.icon-layout-content-left {
+	background-position: -224px -64px;
+}
+.icon-layout-content-right1 {
+	background-position: -256px -64px;
+}
+.icon-layout-content-left1 {
+	background-position: -288px -64px;
+}
+.icon-layout-sidebar-right {
+	background-position: -320px -64px;
+}
+.icon-layout-column-center {
+	background-position: -352px -64px;
+}
+.icon-layout-sidebar-left {
+	background-position: -384px -64px;
+}
+.icon-exclude {
+	background-position: -416px -64px;
+}
+.icon-intersect {
+	background-position: -448px -64px;
+}
+.icon-subtract {
+	background-position: -480px -64px;
+}
+.icon-unite {
+	background-position: 0 -96px;
+}
+.icon-distribute-horizontal-centers {
+	background-position: -32px -96px;
+}
+.icon-distribute-horizontal-right {
+	background-position: -64px -96px;
+}
+.icon-distribute-horizontal-left {
+	background-position: -96px -96px;
+}
+.icon-distribute-vertical-bottom {
+	background-position: -128px -96px;
+}
+.icon-distribute-vertical-centers {
+	background-position: -160px -96px;
+}
+.icon-distribute-vertical-top {
+	background-position: -192px -96px;
+}
+.icon-align-right {
+	background-position: -224px -96px;
+}
+.icon-align-horizontal-centers {
+	background-position: -256px -96px;
+}
+.icon-align-left {
+	background-position: -288px -96px;
+}
+.icon-align-bottom {
+	background-position: -320px -96px;
+}
+.icon-align-vertical-centers {
+	background-position: -352px -96px;
+}
+.icon-align-top {
+	background-position: -384px -96px;
+}
+.icon-attachment {
+	background-position: -416px -96px;
+}
+.icon-attachment1 {
+	background-position: -448px -96px;
+}
+.icon-document-remove {
+	background-position: -480px -96px;
+}
+.icon-document-add {
+	background-position: 0 -128px;
+}
+.icon-document {
+	background-position: -32px -128px;
+}
+.icon-newspaper {
+	background-position: -64px -128px;
+}
+.icon-newspaper1 {
+	background-position: -96px -128px;
+}
+.icon-wallet {
+	background-position: -128px -128px;
+}
+.icon-wallet1 {
+	background-position: -160px -128px;
+}
+.icon-creditcard {
+	background-position: -192px -128px;
+}
+.icon-creditcard1 {
+	background-position: -224px -128px;
+}
+.icon-creditcard2 {
+	background-position: -256px -128px;
+}
+.icon-creditcard3 {
+	background-position: -288px -128px;
+}
+.icon-store {
+	background-position: -320px -128px;
+}
+.icon-store1 {
+	background-position: -352px -128px;
+}
+.icon-cloud-remove {
+	background-position: -384px -128px;
+}
+.icon-cloud-add {
+	background-position: -416px -128px;
+}
+.icon-cloud-remove1 {
+	background-position: -448px -128px;
+}
+.icon-cloud-remove2 {
+	background-position: -480px -128px;
+}
+.icon-cloud-download {
+	background-position: 0 -160px;
+}
+.icon-cloud-upload {
+	background-position: -32px -160px;
+}
+.icon-cloud {
+	background-position: -64px -160px;
+}
+.icon-folder-duplicate {
+	background-position: -96px -160px;
+}
+.icon-folder-remove {
+	background-position: -128px -160px;
+}
+.icon-folder-add {
+	background-position: -160px -160px;
+}
+.icon-folder {
+	background-position: -192px -160px;
+}
+.icon-folder-duplicate1 {
+	background-position: -224px -160px;
+}
+.icon-folder-remove1 {
+	background-position: -256px -160px;
+}
+.icon-folder-add1 {
+	background-position: -288px -160px;
+}
+.icon-folder1 {
+	background-position: -320px -160px;
+}
+.icon-podcast {
+	background-position: -352px -160px;
+	height: 13px;
+}
+.icon-podcast1 {
+	background-position: -384px -160px;
+}
+.icon-support {
+	background-position: -416px -160px;
+}
+.icon-support1 {
+	background-position: -448px -160px;
+}
+.icon-support2 {
+	background-position: -480px -160px;
+}
+.icon-database-remove {
+	background-position: 0 -192px;
+}
+.icon-database-add {
+	background-position: -32px -192px;
+}
+.icon-database {
+	background-position: -64px -192px;
+}
+.icon-ripped-paper {
+	background-position: -96px -192px;
+}
+.icon-paperrollripped {
+	background-position: -128px -192px;
+}
+.icon-paperroll {
+	background-position: -160px -192px;
+}
+.icon-book-lines {
+	background-position: -192px -192px;
+}
+.icon-book {
+	background-position: -224px -192px;
+}
+.icon-book-lines1 {
+	background-position: -256px -192px;
+}
+.icon-book1 {
+	background-position: -288px -192px;
+}
+.icon-addressbook {
+	background-position: -320px -192px;
+}
+.icon-addressbook1 {
+	background-position: -352px -192px;
+}
+.icon-mail {
+	background-position: -384px -192px;
+}
+.icon-mail1 {
+	background-position: -416px -192px;
+}
+.icon-mail2 {
+	background-position: -448px -192px;
+}
+.icon-stamp {
+	background-position: -480px -192px;
+}
+.icon-stamp1 {
+	background-position: 0 -224px;
+}
+.icon-spinner {
+	background-position: -32px -224px;
+}
+.icon-spinner1 {
+	background-position: -64px -224px;
+}
+.icon-spinner2 {
+	background-position: -96px -224px;
+}
+.icon-safe {
+	background-position: -128px -224px;
+}
+.icon-unlocked {
+	background-position: -160px -224px;
+}
+.icon-locked {
+	background-position: -192px -224px;
+}
+.icon-key {
+	background-position: -224px -224px;
+}
+.icon-key1 {
+	background-position: -256px -224px;
+}
+.icon-outbox {
+	background-position: -288px -224px;
+}
+.icon-inbox {
+	background-position: -320px -224px;
+}
+.icon-tray {
+	background-position: -352px -224px;
+}
+.icon-transfer {
+	background-position: -384px -224px;
+}
+.icon-swap {
+	background-position: -416px -224px;
+}
+.icon-swap1 {
+	background-position: -448px -224px;
+}
+.icon-converge {
+	background-position: -480px -224px;
+}
+.icon-split {
+	background-position: 0 -256px;
+}
+.icon-split1 {
+	background-position: -32px -256px;
+}
+.icon-wiggle {
+	background-position: -64px -256px;
+}
+.icon-return {
+	background-position: -96px -256px;
+}
+.icon-shuffle {
+	background-position: -128px -256px;
+}
+.icon-repeat {
+	background-position: -160px -256px;
+}
+.icon-repeat1 {
+	background-position: -192px -256px;
+}
+.icon-refresh {
+	background-position: -224px -256px;
+}
+.icon-tag {
+	background-position: -256px -256px;
+}
+.icon-tag1 {
+	background-position: -288px -256px;
+}
+.icon-tag2 {
+	background-position: -320px -256px;
+}
+.icon-tag3 {
+	background-position: -352px -256px;
+}
+.icon-menu {
+	background-position: -384px -256px;
+}
+.icon-menu1 {
+	background-position: -416px -256px;
+}
+.icon-menu-pull-up {
+	background-position: -448px -256px;
+}
+.icon-menu-pull-down {
+	background-position: -480px -256px;
+}
+.icon-contract {
+	background-position: 0 -288px;
+}
+.icon-maximize {
+	background-position: -32px -288px;
+}
+.icon-expand {
+	background-position: -64px -288px;
+}
+.icon-contract1 {
+	background-position: -96px -288px;
+}
+.icon-expand1 {
+	background-position: -128px -288px;
+}
+.icon-contract2 {
+	background-position: -160px -288px;
+}
+.icon-expand2 {
+	background-position: -192px -288px;
+}
+.icon-wifi-full {
+	background-position: -224px -288px;
+}
+.icon-wifi-half {
+	background-position: -256px -288px;
+}
+.icon-wifi-low {
+	background-position: -288px -288px;
+}
+.icon-eye {
+	background-position: -320px -288px;
+}
+.icon-eye1 {
+	background-position: -352px -288px;
+}
+.icon-zoomout {
+	background-position: -384px -288px;
+}
+.icon-zoomin {
+	background-position: -416px -288px;
+}
+.icon-search {
+	background-position: -448px -288px;
+}
+.icon-zoomout1 {
+	background-position: -480px -288px;
+}
+.icon-zoomin1 {
+	background-position: 0 -320px;
+}
+.icon-search1 {
+	background-position: -32px -320px;
+}
+.icon-nope {
+	background-position: -64px -320px;
+}
+.icon-sleep {
+	background-position: -96px -320px;
+}
+.icon-flux {
+	background-position: -128px -320px;
+}
+.icon-clock {
+	background-position: -160px -320px;
+}
+.icon-battery-charge {
+	background-position: -192px -320px;
+}
+.icon-battery-empty {
+	background-position: -224px -320px;
+}
+.icon-battery-20 {
+	background-position: -256px -320px;
+}
+.icon-battery-40 {
+	background-position: -288px -320px;
+}
+.icon-battery-60 {
+	background-position: -320px -320px;
+}
+.icon-battery-80 {
+	background-position: -352px -320px;
+}
+.icon-battery-100 {
+	background-position: -384px -320px;
+}
+.icon-battery-charge1 {
+	background-position: -416px -320px;
+}
+.icon-battery-empty1 {
+	background-position: -448px -320px;
+}
+.icon-battery-201 {
+	background-position: -480px -320px;
+}
+.icon-battery-401 {
+	background-position: 0 -352px;
+}
+.icon-battery-601 {
+	background-position: -32px -352px;
+}
+.icon-battery-801 {
+	background-position: -64px -352px;
+}
+.icon-battery-1001 {
+	background-position: -96px -352px;
+}
+.icon-user-card {
+	background-position: -128px -352px;
+}
+.icon-map {
+	background-position: -160px -352px;
+}
+.icon-map1 {
+	background-position: -192px -352px;
+}
+.icon-pin {
+	background-position: -224px -352px;
+}
+.icon-pin1 {
+	background-position: -256px -352px;
+}
+.icon-camera {
+	background-position: -288px -352px;
+}
+.icon-camera1 {
+	background-position: -320px -352px;
+}
+.icon-camera2 {
+	background-position: -352px -352px;
+}
+.icon-headphones {
+	background-position: -384px -352px;
+}
+.icon-bullhorn {
+	background-position: -416px -352px;
+}
+.icon-bullhorn1 {
+	background-position: -448px -352px;
+}
+.icon-microphone {
+	background-position: -480px -352px;
+}
+.icon-microphone1 {
+	background-position: 0 -384px;
+}
+.icon-voicemail {
+	background-position: -32px -384px;
+}
+.icon-cassette {
+	background-position: -64px -384px;
+}
+.icon-spool {
+	background-position: -96px -384px;
+}
+.icon-vinyl {
+	background-position: -128px -384px;
+}
+.icon-wave {
+	background-position: -160px -384px;
+}
+.icon-wave1 {
+	background-position: -192px -384px;
+}
+.icon-mixer {
+	background-position: -224px -384px;
+}
+.icon-keys {
+	background-position: -256px -384px;
+}
+.icon-power {
+	background-position: -288px -384px;
+}
+.icon-tilda {
+	background-position: -320px -384px;
+}
+.icon-infinity {
+	background-position: -352px -384px;
+}
+.icon-section {
+	background-position: -384px -384px;
+}
+.icon-cmd {
+	background-position: -416px -384px;
+}
+.icon-square-brackets {
+	background-position: -448px -384px;
+}
+.icon-curlybrace {
+	background-position: -480px -384px;
+}
+.icon-curlybrace1 {
+	background-position: 0 -416px;
+}
+.icon-code {
+	background-position: -32px -416px;
+}
+.icon-terminal {
+	background-position: -64px -416px;
+}
+.icon-clipboard {
+	background-position: -96px -416px;
+}
+.icon-clipboard1 {
+	background-position: -128px -416px;
+}
+.icon-reminder {
+	background-position: -160px -416px;
+}
+.icon-calendar {
+	background-position: -192px -416px;
+}
+.icon-notes {
+	background-position: -224px -416px;
+}
+.icon-floppy {
+	background-position: -256px -416px;
+}
+.icon-stiffy {
+	background-position: -288px -416px;
+}
+.icon-bin {
+	background-position: -320px -416px;
+}
+.icon-bin1 {
+	background-position: -352px -416px;
+}
+.icon-toggle-off {
+	background-position: -384px -416px;
+}
+.icon-toggle-on {
+	background-position: -416px -416px;
+}
+.icon-toggle-off1 {
+	background-position: -448px -416px;
+}
+.icon-toggle-on1 {
+	background-position: -480px -416px;
+}
+.icon-flask-empty {
+	background-position: 0 -448px;
+}
+.icon-flask-full {
+	background-position: -32px -448px;
+}
+.icon-settings {
+	background-position: -64px -448px;
+}
+.icon-settings1 {
+	background-position: -96px -448px;
+}
+.icon-settings2 {
+	background-position: -128px -448px;
+}
+.icon-heart-empty {
+	background-position: -160px -448px;
+	width: 17px;
+}
+.icon-heart-half {
+	background-position: -192px -448px;
+	width: 17px;
+}
+.icon-heart-full {
+	background-position: -224px -448px;
+	width: 17px;
+}
+.icon-polaroid {
+	background-position: -256px -448px;
+}
+.icon-polaroid1 {
+	background-position: -288px -448px;
+}
+.icon-user {
+	background-position: -320px -448px;
+}
+.icon-users {
+	background-position: -352px -448px;
+}
+.icon-user1 {
+	background-position: -384px -448px;
+}
+.icon-user2 {
+	background-position: -416px -448px;
+}
+.icon-video {
+	background-position: -448px -448px;
+}
+.icon-film {
+	background-position: -480px -448px;
+}
+.icon-picture {
+	background-position: 0 -480px;
+}
+.icon-contrast {
+	background-position: -32px -480px;
+}
+.icon-brightness-low {
+	background-position: -64px -480px;
+}
+.icon-brightness-high {
+	background-position: -96px -480px;
+}
+.icon-audio-high {
+	background-position: -128px -480px;
+}
+.icon-audio-mid {
+	background-position: -160px -480px;
+}
+.icon-audio-low {
+	background-position: -192px -480px;
+}
+.icon-audio-mute {
+	background-position: -224px -480px;
+}
+.icon-align-right1 {
+	background-position: -256px -480px;
+}
+.icon-align-center {
+	background-position: -288px -480px;
+}
+.icon-align-left1 {
+	background-position: -320px -480px;
+}
+.icon-justify {
+	background-position: -352px -480px;
+}
+.icon-paragraph-right {
+	background-position: -384px -480px;
+}
+.icon-paragraph-center {
+	background-position: -416px -480px;
+}
+.icon-paragraph-left {
+	background-position: -448px -480px;
+}
+.icon-paragraph-justify {
+	background-position: -480px -480px;
+}
+.icon-outgoing {
+	background-position: 0 -512px;
+}
+.icon-outbox1 {
+	background-position: -32px -512px;
+}
+.icon-inbox1 {
+	background-position: -64px -512px;
+}
+.icon-out {
+	background-position: -96px -512px;
+}
+.icon-in {
+	background-position: -128px -512px;
+}
+.icon-list {
+	background-position: -160px -512px;
+}
+.icon-list1 {
+	background-position: -192px -512px;
+}
+.icon-grid {
+	background-position: -224px -512px;
+}
+.icon-grid1 {
+	background-position: -256px -512px;
+}
+.icon-crate {
+	background-position: -288px -512px;
+}
+.icon-marquee-download {
+	background-position: -320px -512px;
+}
+.icon-marquee-upload {
+	background-position: -352px -512px;
+}
+.icon-marquee-minus {
+	background-position: -384px -512px;
+}
+.icon-marquee-plus {
+	background-position: -416px -512px;
+}
+.icon-marquee {
+	background-position: -448px -512px;
+}
+.icon-minus {
+	background-position: -480px -512px;
+}
+.icon-plus {
+	background-position: 0 -544px;
+}
+.icon-windows {
+	background-position: -32px -544px;
+}
+.icon-browsers {
+	background-position: -64px -544px;
+}
+.icon-terminal1 {
+	background-position: -96px -544px;
+}
+.icon-browser-upload {
+	background-position: -128px -544px;
+}
+.icon-browser-close {
+	background-position: -160px -544px;
+}
+.icon-browser-minimize {
+	background-position: -192px -544px;
+}
+.icon-browser-new-window {
+	background-position: -224px -544px;
+}
+.icon-browser {
+	background-position: -256px -544px;
+}
+.icon-browser-windows {
+	background-position: -288px -544px;
+}
+.icon-terminal2 {
+	background-position: -320px -544px;
+}
+.icon-browser-download1 {
+	background-position: -352px -544px;
+}
+.icon-browser-upload1 {
+	background-position: -384px -544px;
+}
+.icon-browser-close1 {
+	background-position: -416px -544px;
+}
+.icon-browser-minimize1 {
+	background-position: -448px -544px;
+}
+.icon-browser-new-window1 {
+	background-position: -480px -544px;
+}
+.icon-browser1 {
+	background-position: 0 -576px;
+}
+.icon-speech-bubble-right {
+	background-position: -32px -576px;
+}
+.icon-speech-bubble-left {
+	background-position: -64px -576px;
+}
+.icon-speech-bubble-right1 {
+	background-position: -96px -576px;
+}
+.icon-speech-bubble-center {
+	background-position: -128px -576px;
+}
+.icon-speech-bubble-left1 {
+	background-position: -160px -576px;
+}
+.icon-speech-bubble-right2 {
+	background-position: -192px -576px;
+}
+.icon-speech-bubble-center1 {
+	background-position: -224px -576px;
+}
+.icon-speech-bubble-left2 {
+	background-position: -256px -576px;
+}
+.icon-speech-bubble-right3 {
+	background-position: -288px -576px;
+}
+.icon-speech-bubble-center2 {
+	background-position: -320px -576px;
+}
+.icon-speech-bubble-left3 {
+	background-position: -352px -576px;
+}
